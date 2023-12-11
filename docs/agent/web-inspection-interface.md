@@ -11,8 +11,7 @@ The inspection interface has a few limitations. If an entity-body is too long, n
 Inspection is only supported for HTTP tunnels. TCP and TLS tunnels do not support any inspection and will not show up in the inspection interface.
 
 ###### Detailed introspection of HTTP requests and responses
-
-![](/img/docs/inspect2.png)
+нгрок http 80
 
 ## Request body validation
 
